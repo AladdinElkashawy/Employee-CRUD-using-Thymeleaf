@@ -1,0 +1,2 @@
+<h1>Employee CRUD Application</h1>
+This is a simple Employee Management System developed with Spring Boot and Thymeleaf. It allows users to create, view, update, and delete employee records, with data stored in a MySQL database. The project follows the MVC architecture, making it a practical example of integrating back-end and front-end technologies. It serves as a useful resource for anyone looking to understand how to build web applications using Spring Boot and Thymeleaf.
